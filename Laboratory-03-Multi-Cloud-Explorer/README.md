@@ -1,9 +1,8 @@
 # Laboratory 03: Multi-Cloud Explorer
 
-**Author:** VIRAY, BENJIE N.
+**Author:** VIRAY BENJIE N.
 **Course/Section:** BSIT 4F  
 **Repository:** CCM101-VIRAY
-
 ---
 
 ## Mission Overview
