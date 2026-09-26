@@ -1,8 +1,8 @@
 # Laboratory 03: Multi-Cloud Explorer
 
-**Author:** OLIVER V. TABOBO  
+**Author:** VIRAY, BENJIE N.
 **Course/Section:** BSIT 4F  
-**Repository:** CCM101-TABOBO
+**Repository:** CCM101-VIRAY
 
 ---
 
